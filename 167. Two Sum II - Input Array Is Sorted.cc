@@ -37,6 +37,7 @@ int main()
 {
     vector<int> numbers = {2, 7, 11, 15};
     coutVector(twoSum(numbers, 9));
+    return 0;
 }
 
 vector<int> twoSum(vector<int>& numbers, int target)
