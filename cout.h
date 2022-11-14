@@ -38,7 +38,7 @@ void coutVectorVector(vector<vector<int>> v)
     cout << endl;
 }
 
-void coutListNode(ListNode *node)
+void coutList(ListNode *node)
 {
     while(node != nullptr)
     {

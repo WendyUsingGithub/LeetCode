@@ -31,7 +31,7 @@ int main()
     l5.next = &l6;
     l6.next = &l1;
 
-    coutListNode(addTwoNumbers(&l2, &l5));
+    coutList(addTwoNumbers(&l2, &l5));
     return 0;
 }
 
