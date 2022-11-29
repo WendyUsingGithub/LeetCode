@@ -1,3 +1,7 @@
+/*
+ * 把矩陣轉至然後後鏡像
+ */
+
 #include <vector>
 #include "cout.h"
 
