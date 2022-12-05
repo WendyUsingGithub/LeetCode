@@ -32,7 +32,6 @@ int main()
 {
     string s = "a";
     int numRows = 3;
-
     cout << convert(s, numRows) << endl;
     return 0;
 }
